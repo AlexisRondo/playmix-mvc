@@ -103,7 +103,7 @@ Para ler os detalhes de uma música específica, aperte em 'Detalhes'.
 
 #### *Playlist*
 
-Para ler os detalhes de uma playlist específica, aperte em 'Detalhes'.
+Para ler os detalhes de uma playlist específica, aperte em 'Detalhes'
 
 
 ### 3. Atualizar ✏️
